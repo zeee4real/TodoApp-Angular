@@ -1,0 +1,10 @@
+<h5>Todo list</h5>
+
+<table class="table table-hover">
+  <tr *ngFor="let todo of list">
+    <td>{{todo.Title}}</td>
+    <td>{{todo.Notes}}</td>
+    <td>{{todo.Created}}</td>
+    <td><button (click)="onDelete(todo.ID)" class="btn btn-sm btn-outline-danger">X</button></td>
+  </tr>
+</table>
