@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ToDoModelStoreContainer" CdmEntityContainer="ToDoEntities">
+    <EntitySetMapping Name="ToDoInfoes">
+      <EntityTypeMapping TypeName="ToDoModel.ToDoInfo">
+        <MappingFragment StoreEntitySet="ToDoInfo">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Title" ColumnName="Title" />
+          <ScalarProperty Name="Notes" ColumnName="Notes" />
+          <ScalarProperty Name="Created" ColumnName="Created" />
+          <ScalarProperty Name="CurrStatus" ColumnName="CurrStatus" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

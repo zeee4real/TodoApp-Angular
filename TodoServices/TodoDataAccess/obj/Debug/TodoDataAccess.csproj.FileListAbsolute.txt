@@ -1,0 +1,12 @@
+C:\Users\H349930\source\repos\TodoServices\TodoDataAccess\bin\Debug\TodoDataAccess.dll.config
+C:\Users\H349930\source\repos\TodoServices\TodoDataAccess\bin\Debug\TodoDataAccess.dll
+C:\Users\H349930\source\repos\TodoServices\TodoDataAccess\bin\Debug\TodoDataAccess.pdb
+C:\Users\H349930\source\repos\TodoServices\TodoDataAccess\bin\Debug\EntityFramework.dll
+C:\Users\H349930\source\repos\TodoServices\TodoDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\H349930\source\repos\TodoServices\TodoDataAccess\bin\Debug\EntityFramework.xml
+C:\Users\H349930\source\repos\TodoServices\TodoDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\H349930\source\repos\TodoServices\TodoDataAccess\obj\Debug\TodoDataAccess.csprojAssemblyReference.cache
+C:\Users\H349930\source\repos\TodoServices\TodoDataAccess\obj\Debug\TodoDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\H349930\source\repos\TodoServices\TodoDataAccess\obj\Debug\TodoDataAccess.csproj.CopyComplete
+C:\Users\H349930\source\repos\TodoServices\TodoDataAccess\obj\Debug\TodoDataAccess.dll
+C:\Users\H349930\source\repos\TodoServices\TodoDataAccess\obj\Debug\TodoDataAccess.pdb
